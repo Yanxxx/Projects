@@ -4,3 +4,12 @@ The EasyTeaching framework is designed to empower robots to learn complex manipu
 
 ### Teleoperated Colabration Robot Digital Twin
 
+### Wearable ego-motion tracking for blind navigation in indoor environments
+
+### Relative motion estimation using visual–inertial optical flow
+
+### Spatial calibration for thermal-rgb cameras and inertial sensor system
+
+### Rotational coordinate transformation for visual-inertial sensor fusion
+
+### 
