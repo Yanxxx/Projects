@@ -7,6 +7,7 @@
 | | Relative motion estimation using visual–inertial optical flow |
 | ![images/relative-motion/img.png](images/relative-motion/display.png) | | 
 | | Spatial calibration for thermal-rgb cameras and inertial sensor system |
+| ![images/thermal-rgb-calibration/img.png](images/thermal-rgb-calibration/display.png) | | 
 | | Rotational coordinate transformation for visual-inertial sensor fusion |
 | | |
 | | |
