@@ -5,6 +5,7 @@
 | |  Wearable ego-motion tracking for blind navigation in indoor environments |
 | ![images/ego-motion/img.png](images/ego-motion/exp2.png) | | 
 | | Relative motion estimation using visual–inertial optical flow |
+| ![images/relative-motion/img.png](images/relative-motion/display.png) | | 
 | | Spatial calibration for thermal-rgb cameras and inertial sensor system |
 | | Rotational coordinate transformation for visual-inertial sensor fusion |
 | | |
