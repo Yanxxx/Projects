@@ -9,6 +9,7 @@
 | | Spatial calibration for thermal-rgb cameras and inertial sensor system |
 | ![images/thermal-rgb-calibration/img.png](images/thermal-rgb-calibration/display.png) | | 
 | | Rotational coordinate transformation for visual-inertial sensor fusion |
+| ![images/rotation-calibration/img.png](images/rotation-calibration/display.png) | | 
 | | |
 | | |
 
