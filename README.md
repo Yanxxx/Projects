@@ -3,7 +3,7 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" style="font-weight: normal;"> 
+      <th align="left" style="font-weight: normal; width="30%"> 
         <img src="images/ego-motion/exp2.png" alt="Project illustration" style="vertical-align: middle; margin-right: 10px;">
       </th>
 <!--       <th align="left" style="font-weight: normal; width="30%">images/ego-motion/exp2.png </th> -->
