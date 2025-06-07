@@ -14,6 +14,29 @@
   </thead>
 </table>
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" style="font-weight: normal; width: 30%;">Technical Lead Role</th>
+      <th align="left" style="font-weight: normal; width: 70%;">SBIR Project Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" style="font-weight: normal;">
+        <img src="images/ego-motion/exp2.png" alt="Project Icon" style="vertical-align: middle; margin-right: 10px;">
+      </td>
+      <td align="left" style="font-weight: normal;">Designed AI-based sensor system, improving detection accuracy by 20%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
 | AAA | The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. | 
 | ------------- |  ------------- |
 ### Teleoperated Colabration Robot Digital Twin 
