@@ -15,12 +15,6 @@
 </table>
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th align="left" style="font-weight: normal; width: 30%;">Technical Lead Role</th>
-      <th align="left" style="font-weight: normal; width: 70%;">SBIR Project Contributions</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="left" style="font-weight: normal;">
