@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td align="left" style="font-weight: normal; width = 30%">
-        <img src="images/ego-motion/exp2.png" alt="Project Icon" style="vertical-align: middle; margin-right: 10px;">
+        <img width="200" src="images/ego-motion/exp2.png" alt="Project Icon" style="vertical-align: middle; margin-right: 10px;">
       </td>
       <td align="left" style="font-weight: normal; width = 70%">Designed AI-based sensor system, improving detection accuracy by 20%</td>
     </tr>
