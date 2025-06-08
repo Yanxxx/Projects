@@ -55,6 +55,19 @@ The blind navigation project aim to enhance the acessibility for visual impairme
   </tbody>
 </table>
 
+### Real-scale dense scene depth estimation based on visual-inertial measurements 
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/dense-scene-depth/display.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">This paper proposes a method to measure the motion of a moving rigid body using a hybrid visual–inertial sensor. The rotational velocity of the moving object is computed from visual optical flow by solving a depthindependent bilinear constraint, and the translational velocity of the moving object is estimated by solving a dynamics constraint that reveals the relation between scene depth and translational motion. By fusing an inertial sensor, the scale of translational velocities can be estimated, which is otherwise unrecoverable from monocular visual optical flow. An iterative refinement scheme is introduced to deal with observation noise and outliers, and the extended Kalman filter is applied for motion tracking. The performance of the proposed method is evaluated by simulation studies and practical experiments, and the results show the effectiveness of the proposed method in terms of accuracy and robustness.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Relative motion estimation using visual–inertial optical flow  
 
 <table width="100%">
