@@ -8,7 +8,7 @@
         <img width="300" src="images/humanoid/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        **Objective**: To design and build a cost-effective humanoid robot using 3D-printed parts and carbon fiber materials.
+        Objective: To design and build a cost-effective humanoid robot using 3D-printed parts and carbon fiber materials.
         
 This project focuses on minimizing cost and weight by leveraging 3D printing and lightweight structural materials. Carbon fiber tubes act as the robot's primary skeletal structure, while custom-cut carbon fiber plates reinforce the 3D-printed modules. The motors are also 3D-printed, featuring a novel axial flux design that allows for stackable layers to increase torque output. The drivetrain uses a cycloidal reducer, chosen for its compactness and stackable nature. Most components are off-the-shelf, including bearings and steel shafts, simplifying assembly and reducing cost. The robot's bipedal legs have been completed and are used for simulation-based locomotion testing. Each part is modeled with its material, mass, center of mass, and inertia parameters for accurate dynamics simulation.
       </td>
@@ -27,7 +27,7 @@ This project focuses on minimizing cost and weight by leveraging 3D printing and
         <img width="300" src="images/ai-forestry/precision-forestry/display.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        **Objective**: To design and build a cost-effective humanoid robot using 3D-printed parts and carbon fiber materials.
+        Objective: To design and build a cost-effective humanoid robot using 3D-printed parts and carbon fiber materials.
 
 This project focuses on minimizing cost and weight by leveraging 3D printing and lightweight structural materials. Carbon fiber tubes act as the robot's primary skeletal structure, while custom-cut carbon fiber plates reinforce the 3D-printed modules. The motors are also 3D-printed, featuring a novel axial flux design that allows for stackable layers to increase torque output. The drivetrain uses a cycloidal reducer, chosen for its compactness and stackable nature. Most components are off-the-shelf, including bearings and steel shafts, simplifying assembly and reducing cost. The robot's bipedal legs have been completed and are used for simulation-based locomotion testing. Each part is modeled with its material, mass, center of mass, and inertia parameters for accurate dynamics simulation.
       </td>
@@ -45,7 +45,7 @@ This project focuses on minimizing cost and weight by leveraging 3D printing and
         <img width="300" src="images/ai-forestry/drone/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        **Objective**: To develop an in-house drone platform to mitigate potential DJI drone restrictions.
+        Objective: To develop an in-house drone platform to mitigate potential DJI drone restrictions.
 
 In light of DJI drone restrictions in certain U.S. states, we developed a custom forestry drone tailored for high-payload applications (up to 40 kg). The drone is designed for long-range operations (30 km patrol range, up to global control via 5G). It can carry diverse sensor arrays to support pest control, disease monitoring, and branch pruning tasks. The 10 km visual control radius ensures reliable near-ground operation. This drone serves as a hardware platform for ForestAI data collection.
       </td>
@@ -65,7 +65,7 @@ In light of DJI drone restrictions in certain U.S. states, we developed a custom
         <img width="300" src="images/leg-robot/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-       **Objective**: To develop an in-house drone platform to mitigate potential DJI drone restrictions.
+       Objective: To develop an in-house drone platform to mitigate potential DJI drone restrictions.
 
 In light of DJI drone restrictions in certain U.S. states, we developed a custom forestry drone tailored for high-payload applications (up to 40 kg). The drone is designed for long-range operations (30 km patrol range, up to global control via 5G). It can carry diverse sensor arrays to support pest control, disease monitoring, and branch pruning tasks. The 10 km visual control radius ensures reliable near-ground operation. This drone serves as a hardware platform for ForestAI data collection.
         </td>
@@ -83,7 +83,7 @@ In light of DJI drone restrictions in certain U.S. states, we developed a custom
         <img width="300" src="images/laser-AR/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        **Objective**: To automate layout measurement in large-scale construction sites.
+        Objective: To automate layout measurement in large-scale construction sites.
 
 This portable lofting device replaces manual measurement by using laser projection and visual-depth sensing. By interpreting building schematics in real time, it can execute lofting tasks with high precision, reducing time spent on layout by up to 80%. It helps eliminate human error and enhances efficiency in the construction process.
         </td>
@@ -108,7 +108,7 @@ The problem focused on solving the task learning method in sparse reward, and lo
         <img width="300" src="images/Few-shot-Robot-Task-Learning/display2.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        **Objective**: Simplify robotic training using keyframe-based demonstration collection.
+        Objective: Simplify robotic training using keyframe-based demonstration collection.
 
 To support demonstration data collection, I built a teleoperation digital twin system using an HTC VIVE controller and ROS. A differential input model was implemented to resolve revisiting issues. Singularities caused by joint constraints were mitigated through a displacement repositioning strategy. This system simplifies human input collection for robotic excavator tasks.
       </td>
@@ -129,7 +129,6 @@ To support demonstration data collection, I built a teleoperation digital twin s
       <td align="left" width = "70%">
         To efficiently collect demonstartion data, I build a teleoperated cobot digital twin system. The control input of HTC VIVE was choosen (we only have this one) for tracking the huamn control input signal. The system based on the ROS,  the system tracking the controller position as the control input. In order to avoid the absolute position revisiting probelm, I designed the system inmput as the differential input signal. The displacement is only tracked when the controller trigger pressed. 
         As this task is a simulated excavator, the DoF of the robot is reduced which introduced a non-trivial problem of singularities. As the last two joints are locked into (0, 90) position, the singularites dramatically increased. This problem was solved by the proposed  displacement repsotioning method.  
-        
       </td>
     </tr>
   </tbody>
