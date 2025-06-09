@@ -8,12 +8,9 @@
         <img width="300" src="images/humanoid/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        This project aim to use as less as possible cost to build a humanoid robot with 3D printed parts and carbon fiber tubes and plates. The carbon fiber tubes is designed as the bone of the whole robot as the weight supporting. And the carbon fiber plates will be cutted into designed shape to complement the structure strengh of 3D printed module. 
-        In this project, the motor is also 3D printed. Consider the torque requirement has more priority than speed, in this project, we designed the axile flux motor which is layerwise stackable like sandwishes and generate more torque than just one rotor motor. The reducer is also designed to be produced using 3D printers and as many as possible standard hardwares such as bearings and steel rods. The selected reducer is the cycloidal reducer which is relatively compact vs the reduction ratio. And it is also stackable. 
-        All materails selected in this project meant to reduce as much weight as possible. Most 3D printed parts are play support role, and then the carbon fiber plays as the stress role. 
-        Currently, this project is activily growing and hosted by myself. for now, this is no partner yet, and no plan to add other contributor for now. 
-        The bipal part of the humanoid is done, so I can start running simulation for a humanoid locomotion algorithm earlyer than the whole body design is done. 
-        The material of all parts are marked, the mass of each rigid body is estimated, center of mass is estimated which bring us the inertial of the simulation bipedal robot. 
+        **Objective**: To design and build a cost-effective humanoid robot using 3D-printed parts and carbon fiber materials.
+        
+This project focuses on minimizing cost and weight by leveraging 3D printing and lightweight structural materials. Carbon fiber tubes act as the robot's primary skeletal structure, while custom-cut carbon fiber plates reinforce the 3D-printed modules. The motors are also 3D-printed, featuring a novel axial flux design that allows for stackable layers to increase torque output. The drivetrain uses a cycloidal reducer, chosen for its compactness and stackable nature. Most components are off-the-shelf, including bearings and steel shafts, simplifying assembly and reducing cost. The robot's bipedal legs have been completed and are used for simulation-based locomotion testing. Each part is modeled with its material, mass, center of mass, and inertia parameters for accurate dynamics simulation.
       </td>
     </tr>
   </tbody>
@@ -30,22 +27,16 @@
         <img width="300" src="images/ai-forestry/precision-forestry/display.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        Inthe southeastern United States, known as the wood basket of the nation, 70% of U.S. reforestation occurs, producing over 25%
-of the world's pulpwood and 18% of its saw timber, so advanced forest monitoring tools are increasingly critical in this region. To
-address this need, we developed ForestAI, a web-based platform leveraging artificial intelligence to enhance automated
-assessment, monitoring and projection of forest resources and health conditions. 
-        Current research priorities include validating the platform's effectiveness with existing data sources and real-world applications,
-particularly for early detection of pests and diseases. Future development will focus on integrating emerging technologies,
-high-resolution satellite imagery and structural measurements and advanced drone observations, to improve scalability. This
-research contributes to modernizing forest monitoring, data analytics, and decision-making support in the southeastern U.S., to
-enhance forest productivity and resilience while maintaining high standards of accuracy in resource assessment.
+        **Objective**: To design and build a cost-effective humanoid robot using 3D-printed parts and carbon fiber materials.
+
+This project focuses on minimizing cost and weight by leveraging 3D printing and lightweight structural materials. Carbon fiber tubes act as the robot's primary skeletal structure, while custom-cut carbon fiber plates reinforce the 3D-printed modules. The motors are also 3D-printed, featuring a novel axial flux design that allows for stackable layers to increase torque output. The drivetrain uses a cycloidal reducer, chosen for its compactness and stackable nature. Most components are off-the-shelf, including bearings and steel shafts, simplifying assembly and reducing cost. The robot's bipedal legs have been completed and are used for simulation-based locomotion testing. Each part is modeled with its material, mass, center of mass, and inertia parameters for accurate dynamics simulation.
       </td>
     </tr>
   </tbody>
 </table>
 
 
-#### Engineering work for AI forestry
+#### Forestry Drone Development
 
 <table width="100%">
   <tbody>
@@ -54,9 +45,9 @@ enhance forest productivity and resilience while maintaining high standards of a
         <img width="300" src="images/ai-forestry/drone/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        This project is generated for the reason of possible embargo of DJI drones. As the new policy, DJI drone flying is not permitted in Texas already, and a few other states consider to stop importing DJI drones. Under the consideration of avoiding possible risk, we designed our  own Forestry drone for our AI forestry project. 
-        This drone is desgined to carray 40 KG cargo airborne, which capable of carrrying more sensors for collecting simutaneous sensor fusion data. And the load consideration is for future project of pest control, desease control, and branch pruning etc. 
-        The designed largest patrol distance is 30 Km, and the communication distance can be boost to global with attached 5G module. The visual radio distance is 10 Km.  
+        **Objective**: To develop an in-house drone platform to mitigate potential DJI drone restrictions.
+
+In light of DJI drone restrictions in certain U.S. states, we developed a custom forestry drone tailored for high-payload applications (up to 40 kg). The drone is designed for long-range operations (30 km patrol range, up to global control via 5G). It can carry diverse sensor arrays to support pest control, disease monitoring, and branch pruning tasks. The 10 km visual control radius ensures reliable near-ground operation. This drone serves as a hardware platform for ForestAI data collection.
       </td>
     </tr>
   </tbody>
@@ -65,7 +56,7 @@ enhance forest productivity and resilience while maintaining high standards of a
 
 ## Assistance Robot 
 
-#### Dementia Care with Quadruped Robot 
+#### Assistance Robot for Dementia Care 
 
 <table width="100%">
   <tbody>
@@ -74,15 +65,16 @@ enhance forest productivity and resilience while maintaining high standards of a
         <img width="300" src="images/leg-robot/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        This quadruped robot is used to develop a dementia people asssistant. The ultimate goal of this project is to log the patient activites, supervise the patient schedule, acute situation alert, and routine task assistant. 
-        The whole project is hosted by Prof. Zhao Xiaopeng. My role in this project is a tech support, which responsible for the detection algorithms, human robot interaction (LLM, Llama2-7B), robot manipulation,  robot task training (supervised learning-BC, and RL based - GAIL, SAC, DDPG, etc.). Most work load on the engineering part (robot locomotion, environment data collectoin, and fine tune LLM for better huamn robot interaction). 
+       **Objective**: To develop an in-house drone platform to mitigate potential DJI drone restrictions.
+
+In light of DJI drone restrictions in certain U.S. states, we developed a custom forestry drone tailored for high-payload applications (up to 40 kg). The drone is designed for long-range operations (30 km patrol range, up to global control via 5G). It can carry diverse sensor arrays to support pest control, disease monitoring, and branch pruning tasks. The 10 km visual control radius ensures reliable near-ground operation. This drone serves as a hardware platform for ForestAI data collection.
         </td>
     </tr>
   </tbody>
 </table>
 
 
-#### Augmented Reality powered construction feild Lofting 
+#### Augmented Reality powered construction feild Lofting tool
 
 <table width="100%">
   <tbody>
@@ -91,8 +83,9 @@ enhance forest productivity and resilience while maintaining high standards of a
         <img width="300" src="images/laser-AR/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        In the construction feild, the most time consuming part of construction process is that the endless measurement task.  In the standard large construction feild, the standard procedesure is lofting, than building, and lofting again for next step. And the lofting usually done by workers, and people make mistakes. 
-        So, in this project, we proposed a portable lofting device which use laser as the drawing pen, visual-depth sensor for the environment perception. Then the device can do the lofting job according to the building sketch. This process can save 80% of workers time on measurement. 
+        **Objective**: To automate layout measurement in large-scale construction sites.
+
+This portable lofting device replaces manual measurement by using laser projection and visual-depth sensing. By interpreting building schematics in real time, it can execute lofting tasks with high precision, reducing time spent on layout by up to 80%. It helps eliminate human error and enhances efficiency in the construction process.
         </td>
     </tr>
   </tbody>
@@ -115,8 +108,9 @@ The problem focused on solving the task learning method in sparse reward, and lo
         <img width="300" src="images/Few-shot-Robot-Task-Learning/display2.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">
-        This project aim to use limited task demonstartion from huamn-operated demonstartion to train the robot do the same job. This project aims to save the NON-ROBOT-EXPERTS from learning robot manipulation techs and programming skills, which usually not related to the users' profession. 
-        In this project, a few shot hiearchical reinforcement learning based task exploration method was proposed. The main idea is to utilize the exploration property of the RL to find as many success episodes as possible. However, for a task the involved low probability critical step, the exploration method can never success. So we used a goal conditioned based RL and hindersight buffer reply to increase the positive reward signal, besides, we proposed an episode trajectory evaluation algorithm to refine the collected and explored data for the high level GAIL to learn with high quality data.  And to get ride of robot target input which need expert to craft, a latent space based visual-depth  compression network was proposed. The searching space of latent space dramatically reduced the state-action searching process, and the side affect of this method contributes in the task goal learning from the human demonstrated opeartion. 
+        **Objective**: Simplify robotic training using keyframe-based demonstration collection.
+
+To support demonstration data collection, I built a teleoperation digital twin system using an HTC VIVE controller and ROS. A differential input model was implemented to resolve revisiting issues. Singularities caused by joint constraints were mitigated through a displacement repositioning strategy. This system simplifies human input collection for robotic excavator tasks.
       </td>
     </tr>
   </tbody>
