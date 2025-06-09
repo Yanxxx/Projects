@@ -19,10 +19,32 @@ The problem focused on solving the task learning method in sparse reward, and lo
   </tbody>
 </table>
 
-Project supported engineering: 
-#### Teleoperated Colabration Robot Digital Twin 
+
+#### Engineering work for supporting this project: Teleoperated Colabration Robot Digital Twin 
 
 
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Level-2 Autonomous Driving Project 
 
