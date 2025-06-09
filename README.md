@@ -5,7 +5,7 @@ This project is designed to empower robots to learn complex manipulation tasks u
 
 The problem focused on solving the task learning method in sparse reward, and low success rate tryout espisodes. 
 
-### [EasyTeaching: A Keyframe-Driven Framework for Robotic Manipulation Learning](https://yanxxx.github.io/EasyTeaching/) 
+#### [EasyTeaching: A Keyframe-Driven Framework for Robotic Manipulation Learning](https://yanxxx.github.io/EasyTeaching/) 
 
 
 <table width="100%">
@@ -19,12 +19,15 @@ The problem focused on solving the task learning method in sparse reward, and lo
   </tbody>
 </table>
 
+Project supported engineering: 
+#### Teleoperated Colabration Robot Digital Twin 
+
 
 ## Level-2 Autonomous Driving Project 
 
 This project is a preliminary vehicle automation research project. Include: exploring new sensor calibration, vehicle detection with thermal-RGB sensor, lane detection with RGB camera, and panoptic segmentation with RGB camera. 
 
-### Distinguish detected lane markers into sepearate lanes 
+#### Distinguish detected lane markers into sepearate lanes 
 
 <table width="100%">
   <tbody>
@@ -38,7 +41,7 @@ This project is a preliminary vehicle automation research project. Include: expl
 </table>
 
 
-### Robust Thermal-RGB vehicle detection
+#### Robust Thermal-RGB vehicle detection
 
 <table width="100%">
   <tbody>
@@ -53,7 +56,7 @@ This project is a preliminary vehicle automation research project. Include: expl
 
 
 
-### Spatial calibration for thermal-rgb cameras and inertial sensor system 
+#### Spatial calibration for thermal-rgb cameras and inertial sensor system 
 
 <table width="100%">
   <tbody>
@@ -72,7 +75,7 @@ This project is a preliminary vehicle automation research project. Include: expl
 
 The blind navigation project aim to enhance the acessibility for visual impairment personnel on daily activities. The work includes sensor calibration, ego-motion tracking, relative motion estimation, and dense scene depth estimation. 
 
-### Wearable ego-motion tracking for blind navigation in indoor environments 
+#### Wearable ego-motion tracking for blind navigation in indoor environments 
 <table width="100%">
   <tbody>
     <tr>
@@ -84,7 +87,7 @@ The blind navigation project aim to enhance the acessibility for visual impairme
   </tbody>
 </table>
 
-### Real-scale dense scene depth estimation based on visual-inertial measurements 
+#### Real-scale dense scene depth estimation based on visual-inertial measurements 
 
 <table width="100%">
   <tbody>
@@ -97,7 +100,7 @@ The blind navigation project aim to enhance the acessibility for visual impairme
   </tbody>
 </table>
 
-### Relative motion estimation using visual–inertial optical flow  
+#### Relative motion estimation using visual–inertial optical flow  
 
 <table width="100%">
   <tbody>
@@ -110,12 +113,11 @@ The blind navigation project aim to enhance the acessibility for visual impairme
   </tbody>
 </table>
 
-### Teleoperated Colabration Robot Digital Twin 
 
 
 
 
-### Rotational coordinate transformation for visual-inertial sensor fusion 
+#### Rotational coordinate transformation for visual-inertial sensor fusion 
 
 <table width="100%">
   <tbody>
