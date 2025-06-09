@@ -36,7 +36,7 @@
   <tbody>
     <tr>
       <td align="left" width = "30%">
-        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+        <img width="300" src="images/leg-robot/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
     </tr>
