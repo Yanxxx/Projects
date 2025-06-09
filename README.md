@@ -1,4 +1,63 @@
 
+## AI Powered Precision Forestry
+
+#### AI-Driven Insights for Precision Forest Health and Resource Assessment
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/ai-forestry/precision-forestry/display.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Engineering work for AI forestry
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/ai-forestry/drone/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+#### Dementia Care with Quadruped Robot 
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Augmented Reality powered construction feild Lofting 
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Few shot Robot Task Learning 
 
 This project is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**.
@@ -35,16 +94,6 @@ The problem focused on solving the task learning method in sparse reward, and lo
 </table>
 
 
-<table width="100%">
-  <tbody>
-    <tr>
-      <td align="left" width = "30%">
-        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
-      </td>
-      <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
-    </tr>
-  </tbody>
-</table>
 
 ## Level-2 Autonomous Driving Project 
 
