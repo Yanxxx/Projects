@@ -12,7 +12,7 @@ The problem focused on solving the task learning method in sparse reward, and lo
   <tbody>
     <tr>
       <td align="left" width = "30%">
-        <img width="300" src="images/ego-motion/exp2.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+        <img width="300" src="images/Few-shot-Robot-Task-Learning/display.gif" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
       </td>
       <td align="left" width = "70%">The EasyTeaching framework is designed to empower robots to learn complex manipulation tasks using a <ins>**limited number of human-operated demonstrations**</ins>. Developed in 2021, the approach aims to simplify robot teaching for **NON-EXPERTS** while overcoming common challenges such as **noisy data, exploration inefficiencies, and the scarcity of demonstration episodes**. </td>
     </tr>
@@ -23,9 +23,23 @@ Project supported engineering:
 #### Teleoperated Colabration Robot Digital Twin 
 
 
+
 ## Level-2 Autonomous Driving Project 
 
 This project is a preliminary vehicle automation research project. Include: exploring new sensor calibration, vehicle detection with thermal-RGB sensor, lane detection with RGB camera, and panoptic segmentation with RGB camera. 
+#### Instance segmentation for vehicle automation
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left" width = "30%">
+        <img width="300" src="images/panoptic-segmentation/display.png" alt="Project Icon" style="vertical-align: middle; margin-right: 0px;">
+      </td>
+      <td align="left" width = "70%">The light-weight thermal-RGB-inertial sensing units are now gaining increasing research attention, due to their heterogeneous and complementary properties. A robust and accurate registration between a thermal-RGB camera and an inertial sensor is a necessity for effective thermal-RGB-inertial fusion, which is an indispensable procedure for reliable tracking and mapping tasks. This paper presents an accurate calibration method to geometrically correlate the spatial relationships between an RGB camera, a thermal camera and an inertial measurement unit (IMU). The calibration proceeds within the unified calibration framework (thermal-to-RGB, RGB-to-IMU). The extrinsic parameters are estimated by jointly optimizing both the chessboard corner reprojection errors and acceleration and angular velocity error terms. Extensive evaluations have been performed on the collected thermal-RGB-inertial measurements. In this experiments study, the average RMS translation and Euler angle errors are less than 6 mm and 0.04 rad respectively under 20% artificial noise.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 #### Distinguish detected lane markers into sepearate lanes 
 
