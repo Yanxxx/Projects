@@ -28,7 +28,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1.4' # Ensure this matches your site's required Ruby version
+          bundler-cache: true # Automatically caches installed gems
+
+      - name: Install Dependencies
+        run: bundle install
+        env:
+          JEKYLL_ENV: production
+          
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
