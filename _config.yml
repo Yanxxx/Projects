@@ -19,6 +19,10 @@ image_path: /images
 # Build settings
 markdown: kramdown
 permalink: pretty
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
 
 collections:
   projects:
