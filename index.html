@@ -2,36 +2,36 @@
 layout: default
 title: Home
 ---
-<section id="home" class="intro-carousel-container">
+<section id="home"> 
     {% include intro.html %}
 </section>
 
 <!-- PROJECTS -->
 <section id="Personal-Projects">
-    {% include personal-projects.html %}
+    {% include pet-projects.html %}
 </section>
 
 <section id="Resilient-Seedling">
-    {% include resilient-seedling-projects.html %}
+    {% include ai-forestry.html %}
 </section>
 
-<section id="Assistant Robots">
-    {% include assistant-robots-projects.html %}
+<section id="Assistant-Robots">
+    {% include assistant-robots.html %}
 </section>
 
 <section id="Few-Shot-Robot-Task-Learning">
-    {% include few-shot-task-learning-projects.html %}
+    {% include robot-task-learning.html %}
 </section>
 
 <section id="L2-Autonomous-Driving">
-    {% include l2-autonomous-driving-projects.html %}
+    {% include autonomous-driving.html %}
 </section>
 
 <section id="Blind-Navigation">
-    {% include blind-navigation-projects.html %}
+    {% include blind-navigation.html %}
 </section>
 
-<script> // Header scroll effect
+<!-- <script> // Header scroll effect
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
@@ -50,6 +50,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
-</script>
+</script> -->
 
-{% include modal.html %}
