@@ -9,9 +9,9 @@ url: https://yanxxx.github.io/Projects/
 githubusername: Yanxxx
 
 # Build settings
-# theme: minima
-plugins: 
-      - jekyll-feed
+theme: minima
+plugins:
+  - jekyll-feed
 
 # File structure settings
 image_path: /images
@@ -19,10 +19,6 @@ image_path: /images
 # Build settings
 markdown: kramdown
 permalink: pretty
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-
-
 
 collections:
   projects:
@@ -32,10 +28,3 @@ collections:
 sass:
   sass_dir: _sass
   style: compressed
-
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-# Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
