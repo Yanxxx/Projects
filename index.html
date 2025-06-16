@@ -1,0 +1,55 @@
+---
+layout: default
+title: Home
+---
+<section id="home" class="intro-carousel-container">
+    {% include intro.html %}
+</section>
+
+<!-- PROJECTS -->
+<section id="Personal-Projects">
+    {% include personal-projects.html %}
+</section>
+
+<section id="Resilient-Seedling">
+    {% include resilient-seedling-projects.html %}
+</section>
+
+<section id="Assistant Robots">
+    {% include assistant-robots-projects.html %}
+</section>
+
+<section id="Few-Shot-Robot-Task-Learning">
+    {% include few-shot-task-learning-projects.html %}
+</section>
+
+<section id="L2-Autonomous-Driving">
+    {% include l2-autonomous-driving-projects.html %}
+</section>
+
+<section id="Blind-Navigation">
+    {% include blind-navigation-projects.html %}
+</section>
+
+<script> // Header scroll effect
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        const targetId = this.getAttribute('href').substring(1);
+        const targetElement = document.getElementById(targetId);
+
+        if (targetElement) {
+            const headerHeight = document.querySelector('.site-header').offsetHeight;
+            const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - headerHeight;
+
+            window.scrollTo({
+                top: targetPosition,
+                behavior: 'smooth'
+            });
+        }
+    });
+});
+</script>
+
+{% include modal.html %}
