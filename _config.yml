@@ -1,5 +1,30 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Yan Li
+author: Yan Li
+email: liyan.career@gmail.com
+description: >-
+  Welcome! This is Yan Li's projects page. 
 
-gem "github-pages", group: :jekyll_plugins
+baseurl: "" # change if your repo has different name
+url: https://yanxxx.github.io/Projects/
+githubusername: Yanxxx
+
+# Build settings
+theme: minima
+plugins: 
+      - jekyll-feed
+
+# File structure settings
+image_path: /images
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+sass:
+  sass_dir: _sass
+  style: compressed
