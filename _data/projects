@@ -1,0 +1,10 @@
+humanoid:
+  title: "Humaoid Pet project"
+  technology:
+    - "Robotic Arm Design"
+    - "Medical Device"
+    - "Robot Arm Calibration" 
+    - "NPS Software Development"
+  external_links:
+    - text: "Company Website"
+      url: "https://www.jnjmedtech.com/en-US/product-family/monarch/"
